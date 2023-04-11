@@ -1,0 +1,5 @@
+Pedro Drucaroff 45761363
+comentario: se muetran 3 repositorios y un archivo creados. dentro de los repositorios existe algo alli ya que sino no aparecerian en el git status.
+chanchito feliz
+comentario2: se muestran 3 repositorios y un archivo almacenados. ademas muestra un archivo que fue editado y no agregado.
+comentario3: el git log muestra que no se realizaron commits.
